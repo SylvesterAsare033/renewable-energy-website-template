@@ -584,6 +584,6 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
-h1,h5{
+h1,h5,h3,h2,h4,h6{
     font-family: 'Poppins';
 }
